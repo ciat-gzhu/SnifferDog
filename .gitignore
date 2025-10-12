@@ -1,0 +1,9 @@
+/.idea
+/.git
+/.vscode
+
+/datasets
+/result
+/config
+/output
+/models
