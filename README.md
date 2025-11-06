@@ -15,6 +15,6 @@ If you have any questions regarding our paper or code, feel free to contact us a
   number={},
   pages={11684-11699},
   keywords={Vectors;Feature extraction;Topology;Protocols;Payloads;Flow graphs;Network topology;Entropy;Telecommunication traffic;Throughput;NIDS;GNN;heterogeneous feature fusion;attention mechanism},
-  doi={10.1109/TIFS.2025.3620640}}
-
+  doi={10.1109/TIFS.2025.3620640}
+}
 ```
